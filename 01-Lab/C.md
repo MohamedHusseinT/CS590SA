@@ -1,4 +1,4 @@
-c. Write a one page essay where you explain clearly why software architecture is important 
+# c. Write a one page essay where you explain clearly why software architecture is important  #
 
 Software architecture is like a blueprint or a map for a building. It shows how the parts of a program fit together and work. Without it, It would end up with a confusing mess.
 
