@@ -1,4 +1,4 @@
-d. Explain what the difference is between software architecture and software design 
+# d. Explain what the difference is between software architecture and software design #
 
 ## Architecture ##
 -Considered the big picture

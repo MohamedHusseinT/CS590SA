@@ -1,4 +1,4 @@
-e. Explain what makes software architecture so difficult.
+# e. Explain what makes software architecture so difficult. #
 
 -Programs can get huge. Figuring out a structure that keeps things simple is hard to maintain easily.
 -Business rules and technology keep evolving, should plan for updates.
